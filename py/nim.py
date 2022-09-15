@@ -2,7 +2,7 @@
 # Qianhui Vanessa Zou
 # CSCI 77800 Fall 2022
 # collaborators:
-# consulted: Brother in law who works at Google, thinkcspy, codecademy
+# consulted: Brother in law who works at Google, thinkcspy, codecademy, nim java code
 
 import random
 
