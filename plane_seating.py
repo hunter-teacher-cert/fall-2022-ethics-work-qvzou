@@ -1,3 +1,6 @@
+# Looked up online for seating coding due to complexity of coding
+
+
 """This program simulates the sales of tickets for a specific flight.
 
 A plane is represented by a list. Each element of the list is a row in
